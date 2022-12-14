@@ -19,4 +19,3 @@ In this project, we analyze rental bike data for three major cities: Chicago, Ne
     - new_york_city.csv 
     - washington.csv
 
-
