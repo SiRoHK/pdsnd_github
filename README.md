@@ -12,10 +12,10 @@ In this project, we analyze rental bike data for three major cities: Chicago, Ne
 
 
 ### Files used
--bikeshare.py 
--chicago.csv
--new_york_city.csv 
--washington.csv
+- bikeshare.py 
+- chicago.csv
+- new_york_city.csv 
+- washington.csv
 
 
 ### Credits
