@@ -11,11 +11,14 @@ In this project, we analyze rental bike data for three major cities: Chicago, Ne
 The users will select city form three major cities, then user will pick month and day to veiw and filter data.
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+- bikeshare.py
+=========
+- csv File:
+   - chicago.csv
+   - new_york_city.csv
+   - washington.csv
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Resources
+1. [pandas](https://pandas.pydata.org/docs/)
+2. [stackoverflow](https://stackoverflow.com/)
