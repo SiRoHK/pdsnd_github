@@ -12,7 +12,6 @@ The users will select city form three major cities, then user will pick month an
 
 ### Files used
 bikeshare.py
-
 chicago.csv
 new_york_city.csv
 washington.csv
