@@ -8,7 +8,7 @@ bikeshare Project
 
 ### Description
 In this project, we analyze rental bike data for three major cities: Chicago, New York City, and Washington using a Pandas Python library.
-the progarm will ask users to select city form three major cities, then user will pick month and day to veiw and filtter data
+The users will select city form three major cities, then user will pick month and day to veiw and filtter data
 ### Files used
 Include the files used
 
