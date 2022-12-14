@@ -1,14 +1,14 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+12/14/2202
 
 ### Project Title
-Replace the Project Title
+bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
-
+In this project, we analyze rental bike data for three major cities: Chicago, New York City, and Washington using a Pandas Python library.
+the progarm will ask users to select city form three major cities, then user will pick month and day to veiw and filtter data
 ### Files used
 Include the files used
 
